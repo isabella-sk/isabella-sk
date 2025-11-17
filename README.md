@@ -1,9 +1,8 @@
 # 💫 About Me:
-🚀 1 year of experience as a web developer: development and maintenance of WordPress, Drupal, and Joomla websites.<br>🎨 Conversion of Figma mockups into responsive web interfaces using PUG, SCSS, UIKit, and Bootstrap.<br>⚙️ Front-end skills: HTML, CSS, SCSS, Bootstrap, UIKit, TailwindCSS, React<br>🧩 Back-end skills: PHP, SQL, Symfony (beginner), Laravel (beginner)<br>📚 Methodologies: Agile (Scrum / Kanban), version control with Git / GitHub / GitKraken
+My name is Isabella, and since middle school I’ve always known I wanted to work in tech. I planned my path early on with one certainty: I would end up coding.<br>At first, I was only interested in front-end and design, drawn by visuals and creating interfaces.<br>But as I progress, back-end development has become just as exciting. I learn a little more every day, face challenges, solve problems, and that’s exactly what drives me to grow and love web development even more.
 
-
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yumeko_ami7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isabellaks) 
+
 
 ## 💻 Tech Stack:
 
@@ -27,10 +26,3 @@
 
 ### 🎮 Divers
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isabella-sk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=isabella-sk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-sk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># isabella-sk
